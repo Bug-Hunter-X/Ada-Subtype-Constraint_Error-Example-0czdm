@@ -1,0 +1,2 @@
+# Ada Subtype Constraint Error
+This example demonstrates a common error in Ada programming involving subtype constraints. The program attempts to assign a value to a variable that exceeds the defined range of its subtype. This results in a `Constraint_Error` exception being raised at runtime.  The solution illustrates how to handle this using exception handling.
